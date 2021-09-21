@@ -7,3 +7,5 @@ buat dapetin token nya inject js nya di sini discord.com/app ( keadaan udah logi
 javascript:var i = document.createElement('iframe');i.onload = function(){var localStorage = i.contentWindow.localStorage;prompt('DC Token By @github.com/vsec7', localStorage.getItem('token').replace(/["]+/g, ''));};document.body.appendChild(i); 
 
 F12 > Application > Storage > LocalStorage > https://discord.com > Ketik di pencarian dengan keyword "token"
+
+#Jika inign membuat quote sendiri atau inputan pesan sendiri gunakan file di folder Quote
